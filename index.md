@@ -6,5 +6,3 @@
 
 ## Contacto
 [Mi sitio](https://crisheads.negocio.site/)
-
-### +593 987474650
