@@ -8,5 +8,5 @@ Innovación con creatividad
 - Calidad
 - Productividad
 
-### Contact
+### Contacto
 [Sitio](https://crisheads.negocio.site/)
