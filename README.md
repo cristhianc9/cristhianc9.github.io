@@ -8,9 +8,5 @@ Innovación con creatividad
 - Calidad
 - Productividad
 
-```markdown
-Syntax highlighted code block
-
 ### Contact
-
 [Sitio](https://crisheads.negocio.site/)
