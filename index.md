@@ -1,7 +1,11 @@
 # Cristhian Cabezas
 ## Software developer 
-- Innovación con creatividad
 - Automatización de procesos
+- Desarrollo ágil
+- Aplicaciones empresariales
+- Microservicios
+- BPMS
+- BRMS
 
 
 ## Contacto
